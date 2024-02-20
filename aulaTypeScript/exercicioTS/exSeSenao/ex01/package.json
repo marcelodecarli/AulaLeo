@@ -1,0 +1,17 @@
+{
+  "name": "ex03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc ex01.ts && node ex01.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.8.10",
+    "@types/readline-sync": "^1.4.6",
+    "readline-sync": "^1.4.10"
+  }
+}

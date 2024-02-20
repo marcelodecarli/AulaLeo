@@ -1,0 +1,12 @@
+{
+  "name": "ex03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc && node ./build/teste.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

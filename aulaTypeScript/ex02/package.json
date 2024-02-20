@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "npx tsc && node ./build/funcionario.js"
+  },
+  "dependencies": {
+    "init": "^0.1.2"
+  }
+}

@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var rl = require("readline-sync");
+var num1 = rl.questionInt('Digite o primeiro valor: ');
+var num2 = rl.questionInt('Digite o segundo valor: ');
+var somar = num1 + num2;
+var subtrair = num1 - num2;
+var dividir = num1 / num2;
+var multiplicar = num1 * num2;
+var media = (somar + subtrair + dividir + multiplicar) / 4;
+console.log("\n\n---------------------------------RESULTADOS---------------------------------\n    A soma dos dois valores \u00E9: ".concat(somar.toFixed(2), "\n    A subrtra\u00E7\u00E3o dos dois valores \u00E9: ").concat(subtrair.toFixed(2), "\n    A divis\u00E3o dos dois valores \u00E9: ").concat(dividir.toFixed(2), "\n    A multiplica\u00E7\u00E3o dos dois valores \u00E9: ").concat(multiplicar.toFixed(2), "\n    O resultado m\u00E9dio de todos os c\u00E1lculos \u00E9 de: ").concat(media.toFixed(2), "\n\n"));

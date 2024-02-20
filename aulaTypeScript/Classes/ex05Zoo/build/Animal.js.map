@@ -1,0 +1,1 @@
+{"version":3,"file":"Animal.js","sourceRoot":"","sources":["../src/Animal.ts"],"names":[],"mappings":";;;AACA,MAAa,MAAM;IAIf,YAAY,IAAY,EAAE,GAAW;QACjC,IAAI,CAAC,IAAI,GAAG,IAAI;YAChB,IAAI,CAAC,GAAG,GAAG,GAAG,CAAA;IAClB,CAAC;IAGD,SAAS;QACL,OAAO,GAAG,IAAI,CAAC,IAAI,mBAAmB,CAAA;IAC1C,CAAC;CACJ;AAbD,wBAaC"}
