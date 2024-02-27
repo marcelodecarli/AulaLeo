@@ -1,3 +1,3 @@
-let nameUser = "Marcelo";
-console.log(nameUser);
+let array = ['Ola', 'meu', 'nome', 'é', 'Marcelo'];
+array.forEach((item) => console.log(item));
 //# sourceMappingURL=index.js.map
