@@ -1,0 +1,6 @@
+export enum Sabores {
+    PORTUGUESA = 'PORTUGUESA',
+    CALABRESA = 'CALABRESA',
+    CAMARAO = 'CAMARAO',
+    CHOCOLATE = 'CAMARAO'
+}
